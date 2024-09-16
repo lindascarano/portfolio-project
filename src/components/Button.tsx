@@ -10,7 +10,7 @@ export function BasicButton({ button }: { button: ButtonInterface }) {
   );
 }
 
-// I can use it thi way:
+// I can use it this way:
 
 // <Stack spacing={2} direction="row">
 // <BasicButton
