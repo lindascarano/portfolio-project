@@ -12,7 +12,7 @@ function App() {
     <>
       {/* LindaHTML:this div has id="root"-> means check #root in App.css file for style*/}
       <Container maxWidth="sm">
-        <h1>Frontend Developer From Scratch</h1>
+        <h3>Frontend From Scratch</h3>
 
         <Box
           sx={{
