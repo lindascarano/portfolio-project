@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+## Credits for images ##
+Foto di <a href="https://unsplash.com/it/@jessica45?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jessica Gale</a> su <a href="https://unsplash.com/it/foto/a-pile-of-paper-with-a-pen-on-top-of-it-c8Ig9Xka5iM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  

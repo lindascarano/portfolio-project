@@ -1,14 +1,19 @@
-import Box from "@mui/material/Box";
+
 
 import { BasicButton } from "./Button";
+import { AppBar, Stack } from "@mui/material";
+
 
 export function SimpleBoxMenu() {
   return (
-    <Box>
-      <BasicButton button={{ variant: "text", text: "HOME" }}></BasicButton>
-      <BasicButton button={{ variant: "text", text: "ABOUT" }}></BasicButton>
-      <BasicButton button={{ variant: "text", text: "WORKS" }}></BasicButton>
-      <BasicButton button={{ variant: "text", text: "CONTACTS" }}></BasicButton>
-    </Box>
+   
+          <Stack spacing={2} direction="row">
+      <BasicButton button={{ variant: "text", text: "HOME",path:'/'}}></BasicButton>
+      <BasicButton button={{ variant: "text", text: "ABOUT",path:'/about' }}></BasicButton>
+      <BasicButton button={{ variant: "text", text: "WORKS",path:'/works'}}></BasicButton>
+      <BasicButton button={{ variant: "text", text: "CONTACTS",path:'/contacts'}}></BasicButton>
+    </Stack>
+    
+
   );
 }
