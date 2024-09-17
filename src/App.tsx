@@ -4,7 +4,6 @@
 
 import Container from "@mui/material/Container";
 import "./App.css";
-import { SimpleBoxMenu } from "./components/BoxMenu";
 import Box from "@mui/material/Box";
 import { MainRoutes } from "./routes/routes";
 import { Header } from "./components/Header";

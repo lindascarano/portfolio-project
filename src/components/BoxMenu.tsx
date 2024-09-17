@@ -1,7 +1,7 @@
 
 
 import { BasicButton } from "./Button";
-import { AppBar, Stack } from "@mui/material";
+import { Stack } from "@mui/material";
 
 
 export function SimpleBoxMenu() {
