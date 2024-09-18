@@ -14,13 +14,14 @@ export function Header() {
         <Avatar
           alt="Jessica Gale"
           src={avatarImage}
-          sx={{ width: 200, height: 200 }}
+          sx={{ width: 200, height: 200, boxShadow: '4px 6px 20px'}} // LindaCSS: Aggiunta boxshadow
         />
       </Box>
       <Box
         sx={{
           display: "flex",
           justifyContent: "center", // Centra orizzontalmente
+          marginTop:2,
         }}
       >
         <SimpleBoxMenu></SimpleBoxMenu>

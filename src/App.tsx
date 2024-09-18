@@ -13,15 +13,6 @@ function App() {
     <>
       {/* LindaHTML:this div has id="root"-> means check #root in App.css file for style*/}
       <Container maxWidth="sm">
-        {/* <h2>Frontend From Scratch</h2> */}
-        {/* <Box
-          sx={{
-            display: "flex",
-            justifyContent: "center", // Centra orizzontalmente
-          }}
-        >
-          <SimpleBoxMenu></SimpleBoxMenu>
-        </Box> */}
         <Header></Header>
         <Box
           sx={{
