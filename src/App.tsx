@@ -6,10 +6,11 @@ import "./App.css";
 import Box from "@mui/material/Box";
 import { MainRoutes } from "./routes/routes";
 
+
 function App() {
   return (
     <>
-      <Box
+         <Box
         sx={{
           display: "flex",
           justifyContent: "center", // Centra orizzontalmente
