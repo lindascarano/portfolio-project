@@ -23,7 +23,7 @@ export function About() {
         <Box sx={{ padding: 2, textAlign:"center"}}>
           <Typography variant="h4" >
             <span style={{ backgroundColor: "orange"}}>
-             I miei lavori
+             Chi sono?
             </span>
           </Typography>
         </Box>
