@@ -1,15 +1,34 @@
 import Box from "@mui/material/Box";
-import Container from "@mui/material/Container";
+
+import backgroundImage from "../images/markus-spiske-k0rVudBoB4c-unsplash gimp.jpg";
+import { Header } from "../components/Header";
 
 export function Home() {
   return (
     <>
-      <Container>
+      <Box
+        sx={{
+          height: "100vh", // Altezza della vista completa (full viewport height)
+          backgroundImage: `url(${backgroundImage})`, // Imposta l'immagine di sfondo
+
+          backgroundSize: "cover", // L'immagine copre l'intera area
+          backgroundPosition: "center", // L'immagine è centrata
+          // backgroundRepeat: 'no-repeat', // Non ripete l'immagine
+          // display: 'flex', // Usa flexbox per centrare il contenuto
+          justifyContent: "center", // Centra orizzontalmente
+          alignItems: "center", // Centra verticalmente
+        }}
+      >
+        <Header></Header>
         <Box>
-          <h2>Ciao e benvenut* nel mio porfolio!</h2>
+          <h2>
+            <span style={{ backgroundColor: "orange" }}>
+              Ciao e benvenut* nel mio porfolio!
+            </span>
+          </h2>
         </Box>
         <Box>
-          <p>
+          <span style={{ backgroundColor: "pink" }}>
             Sono <b>Linda Scarano</b>, una <b>sviluppatrice frontend </b>con una
             grande passione per la creazione di esperienze web moderne,
             funzionali e intuitive. Nel mio lavoro, amo{" "}
@@ -19,9 +38,9 @@ export function Home() {
               siti performanti e interfacce utente che catturano l’attenzione
             </b>
             .
-          </p>
+          </span>
         </Box>
-      </Container>
+      </Box>
     </>
   );
 }

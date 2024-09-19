@@ -1,5 +1,9 @@
-export function Works(){
-    return(
-        <div>Hello I am WORKS</div>
-    )
+import { Header } from "../components/Header";
+
+export function Works() {
+  return (
+    <>
+      <Header></Header>
+    </>
+  );
 }

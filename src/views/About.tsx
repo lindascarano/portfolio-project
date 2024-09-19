@@ -1,5 +1,9 @@
-export function About(){
-    return(
-        <div>Hello I am ABOUT</div>
-    )
+import { Header } from "../components/Header";
+
+export function About() {
+  return (
+    <>
+      <Header></Header>
+    </>
+  );
 }

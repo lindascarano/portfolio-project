@@ -1,5 +1,9 @@
-export function Contacts(){
-    return(
-        <div>Hello I am CONTACTS</div>
-    )
+import { Header } from "../components/Header";
+
+export function Contacts() {
+  return (
+    <>
+      <Header></Header>
+    </>
+  );
 }

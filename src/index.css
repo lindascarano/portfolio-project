@@ -29,7 +29,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: rgb(211, 209, 212); /*LindaCSS:body background-color*/
+
+  /* background-color: rgb(243, 216, 11); LindaCSS:body background-color */
 }
 
 h1 {
