@@ -5,16 +5,16 @@ export function SimpleBoxMenu() {
   return (
     <Stack spacing={2} direction="row">
       <BasicButton
-        button={{ variant: "contained", text: "HOME", path: "/" }}
+        button={{ variant: "contained", text: "HOME", path: "/portfolio-project/" }}
       ></BasicButton>
       <BasicButton
-        button={{ variant: "contained", text: "ABOUT", path: "/about" }}
+        button={{ variant: "contained", text: "ABOUT", path: "/portfolio-project/about" }}
       ></BasicButton>
       <BasicButton
-        button={{ variant: "contained", text: "WORKS", path: "/works" }}
+        button={{ variant: "contained", text: "WORKS", path: "/portfolio-project/works" }}
       ></BasicButton>
       <BasicButton
-        button={{ variant: "contained", text: "Contacts", path: "/contacts" }}
+        button={{ variant: "contained", text: "Contacts", path: "/portfolio-project/contacts" }}
       ></BasicButton>
     </Stack>
   );

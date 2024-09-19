@@ -7,10 +7,10 @@ import { Contacts } from "../views/Contacts";
 export function MainRoutes() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/about" element={<About />} />
-      <Route path="/works" element={<Works />} />
-      <Route path="/contacts" element={<Contacts />} />
+      <Route path="/portfolio-project/" element={<Home />} />
+      <Route path="/portfolio-project/about" element={<About />} />
+      <Route path="/portfolio-project/works" element={<Works />} />
+      <Route path="/portfolio-project/contacts" element={<Contacts />} />
     </Routes>
   );
 }
