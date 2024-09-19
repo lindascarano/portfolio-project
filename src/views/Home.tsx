@@ -12,7 +12,7 @@ export function Home() {
           height: "100vh", // Altezza della vista completa (full viewport height)
           backgroundImage: `url(${backgroundImage})`, // Imposta l'immagine di sfondo
 
-          backgroundSize: "cover", // L'immagine copre l'intera area
+          width: "100vw", // Larghezza della vista completa (full viewport width)
           backgroundPosition: "center", // L'immagine è centrata
           // backgroundRepeat: 'no-repeat', // Non ripete l'immagine
           // display: 'flex', // Usa flexbox per centrare il contenuto
@@ -21,14 +21,14 @@ export function Home() {
         }}
       >
         <Header></Header>
-        <Box sx={{ padding: 2 }}>
+        <Box sx={{ padding: 2 ,textAlign:"center"}}>
           <Typography variant="h4" >
             <span style={{ backgroundColor: "orange"}}>
               Ciao e benvenut* nel mio porfolio!
             </span>
           </Typography>
         </Box>
-        <Box sx={{ padding: 2}}>
+        <Box sx={{ padding: 2, textAlign:"center"}}>
           <Typography variant="body1" >
             <span style={{ backgroundColor: "pink"}}>
               {" "}
