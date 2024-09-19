@@ -2,7 +2,7 @@ import Box from "@mui/material/Box";
 
 import backgroundImage from "../images/markus-spiske-k0rVudBoB4c-unsplash gimp.jpg";
 import { Header } from "../components/Header";
-import Container from "@mui/material/Container";
+
 
 export function Home() {
   return (
