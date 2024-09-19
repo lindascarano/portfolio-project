@@ -10,6 +10,8 @@ export function Header() {
           display: "flex",
           justifyContent: "center", // Centra orizzontalmente
           marginTop: 2,
+       
+         
         }}
       >
         <SimpleBoxMenu></SimpleBoxMenu>

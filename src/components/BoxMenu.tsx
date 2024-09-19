@@ -3,7 +3,7 @@ import { Stack } from "@mui/material";
 
 export function SimpleBoxMenu() {
   return (
-    <Stack spacing={2} direction="row">
+    <Stack spacing={0.2} direction="row"   >
       <BasicButton
         button={{ variant: "contained", text: "HOME", path: "/portfolio-project/" }}
       ></BasicButton>
