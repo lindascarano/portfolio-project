@@ -23,7 +23,7 @@ export function Home() {
        <Header></Header>
         <Box sx={{padding:2}}>
           <h2>
-            <span style={{ backgroundColor: "orange" }}>
+            <span style={{ backgroundColor: "orange"}}>
               Ciao e benvenut* nel mio porfolio!
             </span>
           </h2>
@@ -34,9 +34,7 @@ export function Home() {
             grande passione per la creazione di esperienze web moderne,
             funzionali e intuitive. Nel mio lavoro, amo{" "}
             <b>trasformare idee e progetti in realtà</b>, utilizzando le più
-            recenti tecnologie del web per realizzare
-            <b>
-              siti performanti e interfacce utente che catturano l’attenzione
+            recenti tecnologie del web per realizzare<b> siti performanti e interfacce utente che catturano l’attenzione
             </b>
             .
           </span>
