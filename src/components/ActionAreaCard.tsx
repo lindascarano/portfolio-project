@@ -14,7 +14,7 @@ export default function ActionAreaCard({card}:{card:ActionAreaCardInterface} ) {
         navigate(card.path);
     }
     return (
-      <Card id={card.id} sx={{ maxWidth:345 }} onClick={handleCardClick}>
+      <Card id={card.id} sx={{ minWidth:345 }} onClick={handleCardClick}>
         <CardActionArea>
           <CardMedia
             component="img"
