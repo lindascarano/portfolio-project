@@ -57,5 +57,7 @@ Foto di <a href="https://unsplash.com/it/@karishea?utm_content=creditCopyText&ut
 
 Foto di <a href="https://unsplash.com/it/@lunarts?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Volodymyr Hryshchenko</a> su <a href="https://unsplash.com/it/foto/tre-carte-gialle-accartocciate-su-superficie-verde-circondate-da-carte-a-righe-gialle-V5vqWC9gyEU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
-  
+## Logo and Usage Guidelines
+<a href="https://github.com/logos">Logo GitHub Guidelines</a>
+<a href="https://brand.linkedin.com/policies">Logo LinkedIn® Guidelines</a>
   
