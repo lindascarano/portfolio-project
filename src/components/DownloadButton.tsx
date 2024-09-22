@@ -19,7 +19,7 @@ export default function DownloadButton() {
       color="primary"
       startIcon={<DownloadIcon />} // Icona di download (opzionale)
       component="a" // Usare un tag <a> per il download
-      href="public/files/CVLindaScaranoIta.pdf" // Percorso relativo al file nella cartella public
+      href="/portfolio-project/public/files/CVLindaScaranoIta.pdf" // Percorso relativo al file nella cartella public
       download // Attributo che forza il download del file
     >
       <Typography variant="body2">Il mio CV</Typography>
