@@ -1,5 +1,5 @@
 
-import { Box, Button } from "@mui/material";
+import { Box, Button, Typography } from "@mui/material";
 import DownloadIcon from '@mui/icons-material/Download'; // Icona opzionale
 
 export default function DownloadButton() {
@@ -22,7 +22,7 @@ export default function DownloadButton() {
       href="public\files\CVLindaScaranoIta.pdf" // Percorso relativo al file nella cartella public
       download // Attributo che forza il download del file
     >
-      Scarica il mio CV
+      <Typography variant="body2">Scarica il mio CV</Typography>
     </Button>
     </Box>
   );
