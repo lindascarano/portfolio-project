@@ -22,7 +22,7 @@ export default function DownloadButton() {
       href="public\files\CVLindaScaranoIta.pdf" // Percorso relativo al file nella cartella public
       download // Attributo che forza il download del file
     >
-      <Typography variant="body2">Scarica il mio CV</Typography>
+      <Typography variant="body2">Il mio CV</Typography>
     </Button>
     </Box>
   );
