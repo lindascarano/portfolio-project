@@ -1,4 +1,3 @@
-
 import "./App.css";
 import DownloadButton from "./components/DownloadButton";
 
@@ -7,11 +6,12 @@ import { MainRoutes } from "./routes/routes";
 function App() {
   return (
     <>
-     
-        <DownloadButton></DownloadButton>
+      {/* <Box sx={{marginTop:1, marginBottom:2}}>
+      <DownloadButton></DownloadButton>
+     </Box> */}
 
-        <MainRoutes></MainRoutes>
-     
+      <DownloadButton></DownloadButton>
+      <MainRoutes></MainRoutes>
     </>
   );
 }
