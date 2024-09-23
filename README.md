@@ -51,11 +51,12 @@ export default tseslint.config({
 
 ## Credits for images
 
-Foto di <a href="https://unsplash.com/it/@aryameher?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Arya Meher</a> su <a href="https://unsplash.com/it/foto/fotografia-piatta-di-pastelli-allinterno-della-tazza-VEp_ElZouAE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
+Foto di <a href="https://unsplash.com/it/@hudsoncrafted?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Debby Hudson</a> su <a href="https://unsplash.com/it/foto/barattolo-di-vetro-di-pennello-lotto-MzSqFPLo8CE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 Foto di <a href="https://unsplash.com/it/@karishea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kari Shea</a> su <a href="https://unsplash.com/it/foto/macbook-pro-sopra-il-tavolo-marrone-1SAnrIxw5OY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-Foto di <a href="https://unsplash.com/it/@lunarts?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Volodymyr Hryshchenko</a> su <a href="https://unsplash.com/it/foto/tre-carte-gialle-accartocciate-su-superficie-verde-circondate-da-carte-a-righe-gialle-V5vqWC9gyEU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Foto di <a href="https://unsplash.com/it/@masoncbjpg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mason B.</a> su <a href="https://unsplash.com/it/foto/pila-di-francobolli-0FbQ5wemi8Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
   
 ## Logo and Usage Guidelines
 <a href="https://github.com/logos">Logo GitHub Guidelines</a>
