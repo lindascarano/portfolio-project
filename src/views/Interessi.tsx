@@ -1,12 +1,11 @@
-import { Typography } from "@mui/material";
 import { ButtonHome } from "../components/ButtonHome";
 
+import { InterestsBoxList } from "../components/InterestsBoxList";
 
 export function Interessi() {
   return (
     <>
-
-      <Typography>Interessi WIP</Typography>
+      <InterestsBoxList></InterestsBoxList>
       <ButtonHome></ButtonHome>
     </>
   );

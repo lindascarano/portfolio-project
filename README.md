@@ -56,6 +56,17 @@ Foto di <a href="https://unsplash.com/it/@hudsoncrafted?utm_content=creditCopyTe
 Foto di <a href="https://unsplash.com/it/@karishea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kari Shea</a> su <a href="https://unsplash.com/it/foto/macbook-pro-sopra-il-tavolo-marrone-1SAnrIxw5OY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Foto di <a href="https://unsplash.com/it/@masoncbjpg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mason B.</a> su <a href="https://unsplash.com/it/foto/pila-di-francobolli-0FbQ5wemi8Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+## Credits for images - Interests
+Foto di <a href="https://unsplash.com/it/@chasingafterdear?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jenny Smith</a> su <a href="https://unsplash.com/it/foto/persona-che-tiene-acceso-liphone-2J0_sJ5qS40?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto di <a href="https://unsplash.com/it/@anko_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Anna Kolosyuk</a> su <a href="https://unsplash.com/it/foto/tre-pennelli-dargento-su-tessuto-bianco-D5nh6mCW52c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto di <a href="https://unsplash.com/it/@nasa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NASA</a> su <a href="https://unsplash.com/it/foto/earth-with-clouds-above-the-african-continent-vhSz50AaFAs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto di <a href="https://unsplash.com/it/@zelebb?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andrey Matveev</a> su <a href="https://unsplash.com/it/foto/un-paio-di-cuffie-su-sfondo-giallo-UgM8JMcU9K8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+   
   
   
 ## Logo and Usage Guidelines
