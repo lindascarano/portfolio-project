@@ -2,17 +2,12 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Page Not Found</title>
     <meta http-equiv="refresh" content="0; url=/" />
     <script>
-      // Ricarica l'index mantenendo il percorso originale
-      var redirectPath = window.location.pathname;
-      if (redirectPath !== "/portfolio-project/") {
-        window.history.replaceState(null, "", "/portfolio-project" + redirectPath);
-      }
+      // Mantiene il percorso originale
+      var pathname = window.location.pathname;
+      window.location.replace("/portfolio-project/");
     </script>
   </head>
-  <body>
-    <h1>404 - Page Not Found</h1>
-  </body>
+  <body></body>
 </html>
