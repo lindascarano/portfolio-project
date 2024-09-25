@@ -1,5 +1,5 @@
 import { Box, Typography } from "@mui/material";
-import { ButtonHome } from "../components/ButtonHome";
+
 import Contact from "../components/Contact";
 
 
