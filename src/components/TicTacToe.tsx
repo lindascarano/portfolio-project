@@ -42,31 +42,43 @@ export default function Board() {
   } else {
     status = "Prossimo giocatore: " + (xIsNext ? "X" : "O");
   }
-
+  const onreset = () => {
+    setSquares(Array(9).fill(""));
+    setXIsNext(true);
+  };
   return (
     <>
-    <Box sx={{border:'solid', padding:1, marginTop:1}}>
+      <Box sx={{ border: "solid", padding: 1, marginTop: 1 }}>
         <Box>
-        <Typography variant="h5" sx={{textAlign:'center'}}>TRIS</Typography>
-        <Typography variant="body1" sx={{textAlign:'center'}}>{status}</Typography>
+          <Typography variant="h5" sx={{ textAlign: "center" }}>
+            TRIS
+          </Typography>
+          <Typography variant="body1" sx={{ textAlign: "center" }}>
+            {status}
+          </Typography>
+        </Box>
+        <Box>
+          <Square value={squares[0]} onSquareClick={() => handleClick(0)} />
+          <Square value={squares[1]} onSquareClick={() => handleClick(1)} />
+          <Square value={squares[2]} onSquareClick={() => handleClick(2)} />
+        </Box>
+        <Box>
+          <Square value={squares[3]} onSquareClick={() => handleClick(3)} />
+          <Square value={squares[4]} onSquareClick={() => handleClick(4)} />
+          <Square value={squares[5]} onSquareClick={() => handleClick(5)} />
+        </Box>
+        <Box>
+          <Square value={squares[6]} onSquareClick={() => handleClick(6)} />
+          <Square value={squares[7]} onSquareClick={() => handleClick(7)} />
+          <Square value={squares[8]} onSquareClick={() => handleClick(8)} />
+        </Box>
+        <Box sx={{marginTop:1, display:'flex', justifyContent:'center'}}>
+               <Button variant="contained" onClick={onreset}  >
+          Nuova Partita!
+        </Button>
+        </Box>
+     
       </Box>
-      <Box>
-        <Square value={squares[0]} onSquareClick={() => handleClick(0)} />
-        <Square value={squares[1]} onSquareClick={() => handleClick(1)} />
-        <Square value={squares[2]} onSquareClick={() => handleClick(2)} />
-      </Box>
-      <Box>
-        <Square value={squares[3]} onSquareClick={() => handleClick(3)} />
-        <Square value={squares[4]} onSquareClick={() => handleClick(4)} />
-        <Square value={squares[5]} onSquareClick={() => handleClick(5)} />
-      </Box>
-      <Box>
-        <Square value={squares[6]} onSquareClick={() => handleClick(6)} />
-        <Square value={squares[7]} onSquareClick={() => handleClick(7)} />
-        <Square value={squares[8]} onSquareClick={() => handleClick(8)} />
-      </Box>
-    </Box>
-      
     </>
   );
 }
